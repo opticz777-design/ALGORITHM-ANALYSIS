@@ -1,0 +1,4 @@
+Topological Sorting Results
+---------------------------
+Kahn's Algorithm: A -> B -> C -> D -> E -> F
+DFS-Based Algorithm: B -> D -> A -> C -> E -> F
